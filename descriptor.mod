@@ -3,5 +3,5 @@ tags={
 	"Balance"
 }
 name="BCK - Better Renown"
-supported_version="1.17.*"
+supported_version="1.18.*"
 remote_file_id="3181271253"
